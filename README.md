@@ -30,3 +30,11 @@ TRANSFER: is the process of sending money to another user of the service through
 Visualization of the different types of transactions.
 ![image](https://github.com/user-attachments/assets/7636fc46-32ec-486f-b5f6-b286d7502c68)
 
+Visualizing Amount distribution using a histogram.
+We have used "log1p" which is really useful when dealing with data where a few large values can heavily influence the distribution. Taking the logarithm helps to compress the range of values, making the distribution easier to visualize.
+![image](https://github.com/user-attachments/assets/05a38e8c-0b83-4df0-9b6b-820f19addd8b)
+
+Correlation Matrix
+A correlation matrix is a table that shows the correlation coefficients between multiple variables. It is useful in doing feature selection in machine learning to remove redundant variables.
+![image](https://github.com/user-attachments/assets/2c5095d3-b02a-482c-9086-66ad2d382799)
+
