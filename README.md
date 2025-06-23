@@ -27,3 +27,6 @@ PAYMENT: is the process of paying for goods or services to merchants which decre
 
 TRANSFER: is the process of sending money to another user of the service through the mobile money platform.
 
+Visualization of the different types of transactions.
+![image](https://github.com/user-attachments/assets/7636fc46-32ec-486f-b5f6-b286d7502c68)
+
