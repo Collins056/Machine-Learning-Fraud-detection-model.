@@ -13,13 +13,17 @@ This dataset contains about 6.3 million records of transaction data for fraud de
 
 
 Key terms used in this dataset.
+
 CASH-IN: is the process of increasing the balance of
 account by paying in cash to a merchant.
+
 CASH-OUT: is the opposite process of CASH-IN, it
 means to withdraw cash from a merchant which decreases
 the balance of the account.
-DEBIT: is similar process than CASH-OUT and involves sending the money from the mobile money service
-to a bank account.
+
+DEBIT: is similar process than CASH-OUT and involves sending the money from the mobile money service to a bank account.
+
 PAYMENT: is the process of paying for goods or services to merchants which decreases the balance of the account and increases the balance of the receiver.
+
 TRANSFER: is the process of sending money to another user of the service through the mobile money platform.
 
